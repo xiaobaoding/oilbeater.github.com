@@ -6,18 +6,30 @@ title: Oilbeater's Home!
 <head>
   <link rel="stylesheet" href="/css/main.css" type="text/css" />
 </head>
-<body class = "main">
-  <p>
-    <a href="http://www.baidu.com">This is my first page</a>
-  </p>
-  <ul class = "main">
-  {% for post in site.posts %}
-      <li>
-          <h2>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </h2>
-          <span>{{ post.description }}</span>
-      </li>
-  {% endfor %}
-  </ul>
+<body>
+  <div class="main">
+    <ul>
+    {% for post in site.posts %}
+        <li class="posts">
+            <h2>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <span class="description">{{ post.description }}</span>
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="to_do_list">
+    <aside>
+    <h2>
+      To do list
+    </h2>
+    <ul>
+      <li>haha</li>
+      <li>adsfaf</li>
+      <li>dsf</li>
+      <li>adsfaf</li>
+    </ul>
+    </aside>
+  </div>
 </body>
