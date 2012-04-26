@@ -2,6 +2,7 @@
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
+description: I think I need to write something I think I need to write something I think I need to write something 
 ---
 {% include JB/setup %}
 
