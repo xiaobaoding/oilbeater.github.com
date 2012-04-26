@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oilbeater's Home!
+title: Oilbeater 的部落格
 ---
 {% include JB/setup %}
 <head>
