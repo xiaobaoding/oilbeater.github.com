@@ -2,5 +2,19 @@
 	float: left;
 	font-family:sans-serif;
 	font-size:10px;
+	width:600px;
+	margin: 0px 0px 20px 0px;
+}
+.description{
+	font-size:18px;
+}
+.to_do_list{
+	float:right;
 	background: whitesmoke;
+	margin: 0px 0px 0px 20px;
+	width:200px;
+}
+.posts{
+	background: whitesmoke;
+	margin: 0px 0px 20px 0px;
 }
