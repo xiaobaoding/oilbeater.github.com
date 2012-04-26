@@ -25,10 +25,14 @@ title: Oilbeater's Home!
       To do list
     </h2>
     <ul>
-      <li>haha</li>
-      <li>adsfaf</li>
-      <li>dsf</li>
-      <li>adsfaf</li>
+      <li>写完第一篇博客</li>
+      <li>加入about页面</li>
+      <li>加入404</li>
+      <li>美化theme</li>
+      <li>购买域名</li>
+      <li>上线</li>
+      <li>还有…………</li>
+      <li>再想一下……</li>
     </ul>
     </aside>
   </div>
