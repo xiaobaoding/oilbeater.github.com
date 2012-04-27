@@ -1,0 +1,13 @@
+.blogcontent,p {
+	font-size: 15px ;
+	line-height:23px;
+}
+p{
+	text-indent:2em;
+}
+li{
+	line-height:23px;
+}
+img{
+	float: left;
+}
