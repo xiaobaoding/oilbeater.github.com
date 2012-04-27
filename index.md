@@ -25,7 +25,7 @@ title: Oilbeater 的部落格
       To do list
     </h2>
     <ul>
-      <li>写完第一篇博客</li>
+      <li><s>写完第一篇博客</s></li>
       <li>加入about页面</li>
       <li>加入404</li>
       <li>美化theme</li>
