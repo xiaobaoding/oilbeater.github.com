@@ -11,14 +11,17 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
   <div class="main">
     <ul>
     {% for post in site.posts %}
-        <li class="posts">
-            <h2>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <p>
-              {{ post.date | date: "%B %e, %Y" }}
-            </p>
-            <span class="description">{{ post.description }}</span>
+        <li>
+            <img src="{{ post.img }}" alt="{{ post.title }}">
+            <div class="posts">
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <p>
+                {{ post.date | date: "%B %e, %Y" }}
+              </p>
+              <span class="description">{{ post.description }}</span>
+            </div>
         </li>
     {% endfor %}
     </ul>
