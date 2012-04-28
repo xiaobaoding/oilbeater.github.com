@@ -14,6 +14,9 @@ title: Oilbeater 的部落格
             <h2>
               <a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
+            <p>
+              {{ post.date | date: "%B %e, %Y" }}
+            </p>
             <span class="description">{{ post.description }}</span>
         </li>
     {% endfor %}
