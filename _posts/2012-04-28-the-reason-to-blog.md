@@ -2,8 +2,9 @@
 layout: post
 title: "我也说一下写博客的原因"
 description: "很多人都义正严词写了为什么要开自己的博客，貌似这是一件严肃的谨慎的事情，但我想说点不太一样的东西。"
-category: 
-tags: []
+category:
+tags: [life]
+img: "/img/sheldon.jpg"
 ---
 {% include JB/setup %}
 <div class="blogcontent">
