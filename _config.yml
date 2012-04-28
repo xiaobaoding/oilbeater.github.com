@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Oilbeater
-tagline: 
+tagline: "Use it wisely,enjoy it as long as posible ,that's youth"
 author :
   name : Oilbeater
   email : liumengxinfly@gmail.com
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-31254339-1'
     getclicky :
       site_id : 
     mixpanel :
