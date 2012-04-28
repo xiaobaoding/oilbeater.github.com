@@ -2,19 +2,41 @@
 	float: left;
 	font-family:sans-serif;
 	font-size:10px;
-	width:600px;
-	margin: 0px 0px 20px 0px;
+	width:700px;
+	background: whitesmoke;
+	outline-style:solid;
+	outline-color:#369;
+	outline-width:thin;
+	margin-bottom:15px;
 }
+
 .description{
-	font-size:18px;
+	font-size:14px;
 }
 .to_do_list{
 	float:right;
 	background: whitesmoke;
-	margin: 0px 0px 0px 20px;
-	width:200px;
+	margin: 0px 0px 0px 0px;
+	width:180px;
+	outline-style:solid;
+	outline-color:#369;
+	outline-width:thin;
+	padding:12px;
 }
 .posts{
+	float: left;
+	margin: 15px 0px 0px 0px;
+	height: 120px;
+	width:480px;
 	background: whitesmoke;
-	margin: 0px 0px 20px 0px;
+}
+img{
+	height:135px;
+	width:135px;
+	float: right;
+}
+li{
+	list-style-type: none;
+}
+.span12{
 }
