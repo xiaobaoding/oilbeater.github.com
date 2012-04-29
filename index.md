@@ -32,10 +32,13 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       To do list
     </h2>
     <ul>
+      <li>美化theme</li>
+      <li>重构底层代码结构</li>
+      <li>解决图床问题</li>
+      <li>写读书笔记</li>
       <li><s>写完第一篇博客</s></li>
       <li><s>加入about页面</s></li>
-      <li>加入404</li>
-      <li>美化theme</li>
+      <li><s>加入404</s></li>
       <li><s>fix tag bug</s></li>
       <li><s>购买域名</s></li>
       <li><s>上线</s></li>
