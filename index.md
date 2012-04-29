@@ -12,7 +12,9 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     <ul>
     {% for post in site.posts %}
         <li>
-            <img src="{{ post.img }}" alt="{{ post.title }}">
+            <a href="{{ post.url }}">
+              <img src="{{ post.img }}" alt="{{ post.title }}">
+            </a>
             <div class="posts">
               <h3>
                 <a href="{{ post.url }}">{{ post.title }}</a>
