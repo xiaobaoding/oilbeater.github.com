@@ -55,7 +55,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       </aside>
     </div>
     <div class="friendlink">
-      <p>乡亲们的链接</p>
+      <p><strong>乡亲们的链接</strong></p>
       <ul>
         <li>
           <a href="http://itester.com">iTester</a>
