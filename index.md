@@ -36,7 +36,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       <li><s>加入about页面</s></li>
       <li>加入404</li>
       <li>美化theme</li>
-      <li>fix tag bug</li>
+      <li><s>fix tag bug</s></li>
       <li><s>购买域名</s></li>
       <li><s>上线</s></li>
       <li>还有…………</li>
