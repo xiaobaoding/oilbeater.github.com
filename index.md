@@ -28,25 +28,38 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     {% endfor %}
     </ul>
   </div>
-  <div class="to_do_list">
-    <aside>
-    <h2>
-      To do list
-    </h2>
-    <ul>
-      <li>美化theme</li>
-      <li>重构底层代码结构</li>
-      <li>解决图床问题</li>
-      <li>写读书笔记</li>
-      <li><s>写完第一篇博客</s></li>
-      <li><s>加入about页面</s></li>
-      <li><s>加入404</s></li>
-      <li><s>fix tag bug</s></li>
-      <li><s>购买域名</s></li>
-      <li><s>上线</s></li>
-      <li>还有…………</li>
-      <li>再想一下……</li>
-    </ul>
-    </aside>
+  <div class="sidebar">
+    <div class="to_do_list">
+      <aside>
+      <h2>
+        To do list
+      </h2>
+      <ul>
+        <li>美化theme</li>
+        <li>重构底层代码结构</li>
+        <li>解决图床问题</li>
+        <li>写读书笔记</li>
+        <li><s>写完第一篇博客</s></li>
+        <li><s>加入about页面</s></li>
+        <li><s>加入404</s></li>
+        <li><s>fix tag bug</s></li>
+        <li><s>购买域名</s></li>
+        <li><s>上线</s></li>
+        <li>还有…………</li>
+        <li>再想一下……</li>
+      </ul>
+      </aside>
+    </div>
+    <div class="friendlink">
+      <p>乡亲们的链接</p>
+      <ul>
+        <li>
+          <a href="http://itester.com">iTester</a>
+        </li>
+        <li>
+          <a href="http://pinderpeng.org">pinder</a>
+        </li>
+      </ul>
+    </div>
   </div>
 </body>
