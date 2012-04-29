@@ -15,8 +15,21 @@
 .description{
 	font-size:14px;
 }
-.to_do_list{
+.sidebar{
 	float:right;
+}
+.to_do_list{
+	background: whitesmoke;
+	margin: 0px 0px 0px 0px;
+	width:180px;
+	border-style:solid;
+	border-color:#369;
+	border-width:thin;
+	margin-bottom:15px;
+	border-radius: 20px;
+	padding:12px;
+}
+.friendlink{
 	background: whitesmoke;
 	margin: 0px 0px 0px 0px;
 	width:180px;
@@ -41,6 +54,7 @@ img{
 }
 li{
 	list-style-type: none;
+	font-size:14px;
 }
 .span12{
 }
