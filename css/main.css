@@ -3,6 +3,7 @@
 	font-family:sans-serif;
 	font-size:10px;
 	width:700px;
+	height:135px;
 	background: whitesmoke;
 	border-style:solid;
 	border-color:#369;
@@ -42,7 +43,7 @@
 }
 .posts{
 	float: left;
-	margin: 15px 0px 0px 0px;
+	margin: 15px 0px 10px 0px;
 	height: 120px;
 	width:480px;
 	background: whitesmoke;
