@@ -61,7 +61,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
           <a href="http://itester.com">iTester</a>
         </li>
         <li>
-          <a href="http://pinderpeng.org">pinder</a>
+          <a href="http://pinderpeng.org">Pinder's Blog</a>
         </li>
       </ul>
     </div>
