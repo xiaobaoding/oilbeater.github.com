@@ -11,3 +11,7 @@ li{
 img{
 	float: left;
 }
+.book{
+	height:400px;
+	width:100%;
+}
