@@ -58,10 +58,10 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       <p><strong>乡亲们的链接</strong></p>
       <ul>
         <li>
-          <a href="http://itester.com">iTester</a>
+          <a href="http://itester.me" target="_blank">iTester</a>
         </li>
         <li>
-          <a href="http://pinderpeng.org">Pinder's Blog</a>
+          <a href="http://pinderpeng.org" target="_blank">Pinder's Blog</a>
         </li>
       </ul>
     </div>
