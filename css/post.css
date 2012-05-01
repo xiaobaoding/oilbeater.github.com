@@ -10,8 +10,9 @@ li{
 }
 img{
 	float: left;
+	margin-right:1.5em;
 }
 .book{
-	height:400px;
-	width:100%;
+	height:650px;
+	width: 100%;
 }
