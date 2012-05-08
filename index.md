@@ -41,6 +41,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
   </div>
   </div>
   {% for post in site.posts %}
+    {% if post.img != "secret" %}
       <div class="main">
         <ul>
           <li>
@@ -63,5 +64,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
           </li>
         </ul>
       </div>
+    {% endif %}
   {% endfor %}
 </body>
