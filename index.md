@@ -22,7 +22,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
         <a href="http://markdown.tw" target="_blank">Markdown</a>
       </li>
       <li><a href="http://net.pku.edu.cn/~course/cs501/2012/assign/2012-Paxos_Practice.txt">Paxos_Practice</a></li>
-      <li>解决图床问题</li>
       <li>还有…………</li>
       <li>再想一下……</li>
     </ul>
