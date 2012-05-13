@@ -8,7 +8,7 @@ tags: [reading]
 img: "/img/reading.jpg"
 ---
 {% include JB/setup %}
-<img src="/img/reading.jpg" alt="reading" style="float:right;margin-left:10px">
+<img src="http://lh3.googleusercontent.com/-igbGFN1vP90/T69fVh8FbPI/AAAAAAAAAIw/83h5H4ELBew/s243/reading.jpg" alt="reading" style="float:right;margin-left:10px">
 <p>
     如果书籍是人类进步的阶梯的话，那么kindle就是人类进步的电梯。自打发现kindle看书还是蛮舒服的，就开始了不可控制的刷书岁月。
 </p>
@@ -18,7 +18,7 @@ img: "/img/reading.jpg"
 <hr>
 <div class="book" style="height:100%;width:580px;">
 	<div class="book" style="height:720px;">	
-		<img src="/img/books/ethnic_america.jpg" alt="" style="width:155px;height:215px;clear:both;">
+		<img src="http://lh4.googleusercontent.com/-kS8Rdcly7ow/T69fegLSxWI/AAAAAAAAAI8/xxvRCzUkK54/s429/ethnic_america.jpg" alt="" style="width:155px;height:215px;clear:both;">
 		<p>美国种族简史</p>
 		<p>★★★★★</p>
 		<p>
@@ -35,7 +35,7 @@ img: "/img/reading.jpg"
 	</div>
 	<hr>
 	<div class="book">	
-		<img src="/img/books/quantum.jpg" alt="" style="width:155px;height:215px;clear:both;">
+		<img src="http://lh4.googleusercontent.com/-ga5Lv1FYEbs/T69ffdTzyQI/AAAAAAAAAJI/DffV9zGnsW4/s438/quantum.jpg" alt="" style="width:155px;height:215px;clear:both;">
 		<p>上帝掷骰子吗</p>
 		<p>★★★★★</p>
 		<p>标题源自爱因斯坦关于量子力学的一个著名观点，即上帝是不会掷骰子的，然而按照现在的主流观点来看，上帝居然是个赌徒。这是一本超出想象好的书，有着很多意外的收获，也启迪着我思考了很多原来根本无法想象的东西，所以破例给个科技类的书打5星。</p>
@@ -43,12 +43,12 @@ img: "/img/reading.jpg"
 		    国人写历史的文学性在这本书里就表现出来了，即使写的科学史，即使写得还是最晦涩难懂的量子力学。个人感觉这本书写得比《时间简史》通俗多了，解决了我无数高中时只是背下来却不知道怎么回事的概念，诸如波粒二相性，测不准定则，薛定鄂方程等等看这本书的时候都明白了。窃以为由于测不准定则的存在，理论物理的研究其实早就到了极限了，现在相关的量子理论已经只是推理体系了，证明这些推理已经超出了人类能力的范围了，so 马克思主义里的什么人类是可以穷尽真理的现在看来是根本没有科学依据的。
 		</p>
 		<p>
-		    这本书是按天下大势分久必合，合久必分来写的。你会看到诸如108将般的明星级科学家如何过五关斩六将将自己的理论推向极致又如何败走麦城晚年郁郁而终。<img src="/img/books/physic.jpg" alt="" style="width:290px;height:187px;float:right">量子力学就像一个泥潭，牛顿，波尔，薛定额，海森堡，爱因斯坦这些巨星们都没能保住晚节，在量子力学面前无法善终。这是一段科学家斗智斗勇的历史，这也是人类追求真理而不断奋斗的曲折史，战争激烈程度不亚于二战，将星云集不亚于三国，右边是一张网上流传的图片，你知道这是张量子力学大战后的合影么，你知道图下面是多么的暗流涌动么？
+		    这本书是按天下大势分久必合，合久必分来写的。你会看到诸如108将般的明星级科学家如何过五关斩六将将自己的理论推向极致又如何败走麦城晚年郁郁而终。<img src="http://lh3.googleusercontent.com/-MI0MBveNQro/T69ffMJHdNI/AAAAAAAAAJE/IoCWUcY6gmI/s700/physic.jpg" alt="" style="width:290px;height:187px;float:right">量子力学就像一个泥潭，牛顿，波尔，薛定额，海森堡，爱因斯坦这些巨星们都没能保住晚节，在量子力学面前无法善终。这是一段科学家斗智斗勇的历史，这也是人类追求真理而不断奋斗的曲折史，战争激烈程度不亚于二战，将星云集不亚于三国，右边是一张网上流传的图片，你知道这是张量子力学大战后的合影么，你知道图下面是多么的暗流涌动么？
 		</p>
 	</div>		
 	<hr>
 	<div class="book" style="height:350px;">
-		<img src="/img/books/thegirl.jpg" alt="" style="width:155px;height:215px;clear:both;">
+		<img src="http://lh6.googleusercontent.com/-G4mGyfzo_CQ/T69ffffp79I/AAAAAAAAAJY/tZUnYGrpVVo/s431/thegirl.jpg" alt="" style="width:155px;height:215px;clear:both;">
 		<p>那些年，我们一起追的女孩</p>
 		<p>★★★★★</p>
 		<p>如果一本书你知道是不错的，但是当读的时候比你预想的还要好那么对这本书的好感就会直线上升，如果再和你的某种心理产生契合的话这种好感就会变得无法控制了。</p>
@@ -56,7 +56,7 @@ img: "/img/reading.jpg"
 	</div>	
 	<hr>	
 	<div class="book" style="height:400px;">
-		<img src="/img/books/magicspeaker.jpg" alt="" style="width:155px;height:215px;clear:both;">
+		<img src="http://lh4.googleusercontent.com/-X_uXqCiOMwk/T69feWCLYdI/AAAAAAAAAJA/LueSS1Tl9pQ/s438/magicspeaker.jpg" alt="" style="width:155px;height:215px;clear:both;">
 		<p>乔布斯的魔力演讲</p>
 		<p>★★★★☆</p>
 		<p>老罗说他演讲成功的秘密在于这本书，我看见书标题又笑了，你也要山寨乔帮主？</p>
@@ -64,7 +64,7 @@ img: "/img/reading.jpg"
 	</div>
 	<hr>
 	<div class="book" style="height:350px;">
-		<img src="/img/books/passedtime.jpg" alt="" style="width:155px;height:215px;clear:both;">
+		<img src="http://lh4.googleusercontent.com/-Nfpzjzi30mI/T69feSWP5vI/AAAAAAAAAI4/t32cWxAFRlE/s426/passedtime.jpg" alt="" style="width:155px;height:215px;clear:both;">
 		<p>好想回到小时候</p>
 		<p>★★★★☆</p>
 		<p>我的梦想是长大当个摊煎饼果子的。</p>
