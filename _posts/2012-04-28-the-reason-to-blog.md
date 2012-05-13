@@ -5,7 +5,7 @@ description: "很多人都义正严词写了为什么要开自己的博客，貌
 category:
 tagline: " Enjoy life!"
 tags: [life , thinking]
-img: "/img/sheldon.jpg"
+img: "http://lh4.googleusercontent.com/-DiU6lX5jiGU/T69ZP4vZ0SI/AAAAAAAAAG8/PiIweQh1z7U/s310/sheldon.jpg"
 ---
 {% include JB/setup %}
 <div class="blogcontent">

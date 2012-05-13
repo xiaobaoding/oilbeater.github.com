@@ -5,7 +5,7 @@ description: "如果书籍是人类进步的阶梯的话，那么kindle就是人
 category: 
 tagline: " Keep reading!"
 tags: [reading]
-img: "/img/reading.jpg"
+img: "http://lh3.googleusercontent.com/-igbGFN1vP90/T69fVh8FbPI/AAAAAAAAAIw/83h5H4ELBew/s243/reading.jpg"
 ---
 {% include JB/setup %}
 <img src="http://lh3.googleusercontent.com/-igbGFN1vP90/T69fVh8FbPI/AAAAAAAAAIw/83h5H4ELBew/s243/reading.jpg" alt="reading" style="float:right;margin-left:10px">

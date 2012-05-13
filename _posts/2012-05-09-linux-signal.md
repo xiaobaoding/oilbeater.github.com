@@ -3,7 +3,7 @@ layout: post
 title: "linux 信号处理机制简介"
 description: "鉴于后面把进程的形象给彻底毁掉了，我提前声明一下，进程是有尊严的有节操的，当然大部分人可能也看不到毁形象那一段了。"
 category: 
-img: "/img/linux.jpg"
+img: "http://lh6.googleusercontent.com/-vRXcYw7V7fg/T69fVsIkNaI/AAAAAAAAAIw/Y3KgmC33VbI/s512/linux.jpg"
 tags: [linux , 源码阅读]
 ---
 {% include JB/setup %}
