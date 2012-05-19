@@ -12,21 +12,48 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
   <div class="to_do_list">
     <aside>
     <h2>
-      To do list
+      要种的地
     </h2>
     <ul>
-      <li>读完python核心编程</li>
-      <li>分布式和高体课本</li>
       <li>OO大作业</li>
+      <li>高体大作业</li>
       <li>
         <a href="http://markdown.tw" target="_blank">Markdown</a>
       </li>
-      <li><a href="http://net.pku.edu.cn/~course/cs501/2012/assign/2012-Paxos_Practice.txt">Paxos_Practice</a></li>
-      <li>还有…………</li>
+      <li><a href="https://github.com/oilbeater/ACT" target="_blank">重构编译优化器代码</a></li>
       <li>再想一下……</li>
     </ul>
     </aside>
   </div>
+    <div class="doing_list">
+    <aside>
+    <h2>
+      正在种的地
+    </h2>
+    <ul>
+      <li><a href="http://book.douban.com/subject/1984303/" target="_blank">Computer Architecture</a></li>
+      <li>
+        <a href="http://book.douban.com/subject/2343820/" target="_blank">Distributed System</a>
+      </li>
+      <li><a href="http://book.douban.com/subject/3112503/" target="_blank">Python核心技术</a></li>
+    </ul>
+    </aside>
+  </div>
+      <div class="done_list">
+    <aside>
+    <h2>
+      种过的地
+    </h2>
+    <ul>
+      <li><a href="https://github.com/oilbeater/Paxos" target="_blank">Paxos C实现</a></li>
+      <li>
+        <a href="https://github.com/oilbeater/ACT" target="_blank">编译优化器</a>
+      </li>
+      <li><a href="https://github.com/oilbeater/oilbeater.github.com" target="_blank">简陋的部落</a></li>
+    </ul>
+    </aside>
+  </div>
+  
   <div class="friendlink">
     <p><strong>乡亲们的链接</strong></p>
     <ul>

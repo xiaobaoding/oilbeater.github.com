@@ -19,7 +19,7 @@
 .sidebar{
 	float:right;
 }
-.to_do_list{
+.to_do_list , .doing_list , .done_list {
 	background: whitesmoke;
 	margin: 0px 0px 0px 0px;
 	width:180px;
@@ -56,6 +56,7 @@ img{
 li{
 	list-style-type: none;
 	font-size:14px;
+	height:20px;
 }
 .span12{
 }
