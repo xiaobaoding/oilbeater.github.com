@@ -4,7 +4,7 @@ title: "First Love"
 description: ""
 img: "secret"
 category: 
-tagline: "Somebody like you"
+tagline: "Someone like you"
 tags: [love , 彩蛋]
 ---
 {% include JB/setup %}
