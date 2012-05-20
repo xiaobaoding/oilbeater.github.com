@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: "First Love"
 description: ""
 img: "secret"
 category: 
-tagline: "Someone like you"
+tagline: "Somebody like you"
 tags: [love , 彩蛋]
 ---
 {% include JB/setup %}
