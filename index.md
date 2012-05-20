@@ -53,7 +53,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     </ul>
     </aside>
   </div>
-  
   <div class="friendlink">
     <p><strong>乡亲们的链接</strong></p>
     <ul>
