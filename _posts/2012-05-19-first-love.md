@@ -8,6 +8,7 @@ tagline: "Someone like you"
 tags: [love , 彩蛋]
 ---
 {% include JB/setup %}
+<div>
 <img src="/img/first_love1.jpg" alt="" style="float:left;width:183px;height:183px;">
 <p>
 	雨是个奇怪的东西，第一次有冲动要在雨天淋个痛快的时候，老天爷极其赏脸的就答应了，结果就有了去年那次著名的水淹帝都。我趴在百度大厦的玻璃窗上看了半天，想了一下还是算了，和被困的同事打三国杀去了。今天也下雨了，当我一不留神打开了百度首页蹦出一条新鲜事的时候，又想出去淋雨了，结果雨停了。想起了那个龙王女儿的说法，不知道她到底有什么魔法。有的事有趣就有趣在不是因缘际会而总是阴错阳差。
@@ -38,7 +39,7 @@ tags: [love , 彩蛋]
 </p>
 <img src="/img/first_love2.jpg" alt="" style="float:right;width:183px;height:183px;">
 <p>
-    想我从前一个死宅加死理性派居然也会又这么胡思乱想加各种小清新的时候，生活也变得有颜色起来，感谢你给我带来的变化，让我认识了自己，也让我有了一段精彩的经理。原谅我吝惜溢美之词不愿意用它们来褒奖你。
+    想我从前一个死宅加死理性派居然也会又这么胡思乱想加各种小清新的时候，生活也变得有颜色起来，感谢你给我带来的变化，让我认识了自己，让我多了份感性，也让我有了一段精彩的经历。原谅我吝惜溢美之词不愿意用它们来褒奖你。
 </p>
 <p>
 	祝福你，我喜欢的女孩儿。
@@ -51,3 +52,4 @@ tags: [love , 彩蛋]
 </p>
 
 <audio controls="controls" autoplay="autoplay" loop="loop" src="/audio/AnyThingButOrdinary.mp3"></audio>
+</div>
