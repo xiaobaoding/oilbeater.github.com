@@ -15,7 +15,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       要种的地
     </h2>
     <ul>
-      <li>OO大作业</li>
       <li>高体大作业</li>
       <li>
         <a href="http://markdown.tw" target="_blank">Markdown</a>
@@ -31,6 +30,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       正在种的地
     </h2>
     <ul>
+      <li>OO大作业</li>
       <li><a href="http://book.douban.com/subject/1984303/" target="_blank">Computer Architecture</a></li>
       <li>
         <a href="http://book.douban.com/subject/2343820/" target="_blank">Distributed System</a>
