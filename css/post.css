@@ -12,8 +12,17 @@ img{
 	float: left;
 	margin-right:1.5em;
 	margin-left:1.5em;
+	margin-bottom:1.5em;
+	margin-top:1.5em;
 }
 .book{
 	height:650px;
 	width: 100%;
+}
+.photo img{
+	float: none;
+	margin-right:1.5em;
+	margin-left:1.5em;
+	margin-bottom:1.5em;
+	margin-top:1.5em;
 }
