@@ -15,7 +15,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       要种的地
     </h2>
     <ul>
-      <li>高体大作业</li>
       <li>
         <a href="http://markdown.tw" target="_blank">Markdown</a>
       </li>
@@ -30,7 +29,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       正在种的地
     </h2>
     <ul>
-      <li>OO大作业</li>
       <li><a href="http://book.douban.com/subject/1984303/" target="_blank">Computer Architecture</a></li>
       <li>
         <a href="http://book.douban.com/subject/2343820/" target="_blank">Distributed System</a>
@@ -46,6 +44,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     </h2>
     <ul>
       <li><a href="https://github.com/oilbeater/Paxos" target="_blank">Paxos C实现</a></li>
+      <li><a href="https://github.com/oilbeater/Tournament-Predictor">分支预测器 C++实现</a></li>
       <li>
         <a href="https://github.com/oilbeater/ACT" target="_blank">编译优化器</a>
       </li>
