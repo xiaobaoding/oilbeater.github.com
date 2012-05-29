@@ -79,5 +79,5 @@ tags: [photo , life]
 	<p>原来她是不好意思了。</p>
 	<img src="http://lh5.googleusercontent.com/-QfgS6ezgh94/T8B9sdGXZfI/AAAAAAAAALo/50EgoeFSmcA/s640/%25E5%259B%259E%25E5%2588%25B0%25E5%259F%258E%25E5%25B8%2582.JPG" alt="">
 	<p>走着走着就又进入了城市。</p>
-<audio controls="controls" autoplay="autoplay" loop="loop" src="http://42.120.43.143/2d/2d230abe5346efe4db170cc060812050e6b5a307/Peace.mp3"></audio>
+<audio controls="controls" autoplay="autoplay" loop="loop" src="http://42.120.43.143/2d/2d230abe5346efe4db170cc060812050e6b5a307/Peace.mp3?key=3c33d1ce32fb89ccb1958ec303b6aab1bda16cdc&file=Peace.mp3"></audio>
 </div>
