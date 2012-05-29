@@ -51,5 +51,5 @@ tags: [love , 彩蛋]
     5.20,收笔于雨声。
 </p>
 
-<audio controls="controls" autoplay="autoplay" loop="loop" src="/audio/AnyThingButOrdinary.mp3"></audio>
+<audio controls="controls" autoplay="autoplay" loop="loop" src="http://42.120.43.142/ea/ead4cbc43460034e75a868e60e50b858f5f29449/AnyThingButOrdinary.mp3?key=3c33d1ce32fb89ccb1958ec303b6aab1bda16cdc&file=AnyThingButOrdinary.mp3"></audio>
 </div>
