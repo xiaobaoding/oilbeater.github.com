@@ -19,7 +19,7 @@
 .sidebar{
 	float:right;
 }
-.to_do_list , .doing_list , .done_list {
+.to_do_list , .doing_list , .done_list , .to_be_continue{
 	background: whitesmoke;
 	margin: 0px 0px 0px 0px;
 	width:180px;

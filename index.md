@@ -9,6 +9,20 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
 </head>
 <body>
   <div class="sidebar">
+    <div class="to_be_continue">
+    <h2>即将推出</h2>
+    <ul>
+      <li>
+        栈溢出和堆溢出
+      </li>
+      <li>
+        历史的忧思
+      </li>
+      <li>
+        Learn it the hard way
+      </li>
+    </ul>
+  </div>
   <div class="to_do_list">
     <aside>
     <h2>
