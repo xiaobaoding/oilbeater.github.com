@@ -47,7 +47,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       <li>
         <a href="http://book.douban.com/subject/2343820/" target="_blank">Distributed System</a>
       </li>
-      <li><a href="http://book.douban.com/subject/3112503/" target="_blank">Python核心技术</a></li>
     </ul>
     </aside>
   </div>
