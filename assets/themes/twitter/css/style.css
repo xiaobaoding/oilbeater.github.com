@@ -3,6 +3,8 @@ html, body {
   background-color: #444;
 }
 .navbar {
+	width : 100%;
+	position: fixed;
   margin-bottom: 0;
 }
 .container > footer {
