@@ -13,9 +13,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     <h2>即将推出</h2>
     <ul>
       <li>
-        栈溢出和堆溢出
-      </li>
-      <li>
         历史的忧思
       </li>
       <li>
