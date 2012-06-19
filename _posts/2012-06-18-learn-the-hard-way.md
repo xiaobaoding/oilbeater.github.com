@@ -39,4 +39,4 @@ tags: [life , thinking , 彩蛋]
 <p>好吧，这应该是一篇感谢文不是一篇励志文，毕竟好运气是不能算励志的。最后附福利照一张，反正她应该看不到。</p>
 <img src="http://lh3.googleusercontent.com/-DYaJQ6JpCmE/T-B3LMpyzAI/AAAAAAAAAS4/rqNrgDZgDcU/s1024/bd704260496954be8cb10d07.jpg" alt="">
 </div>
-<embed height="30" loop="true"  autostart="true"   starttime="00:01"  controls="ControlPanel"  src="/audio/LetItBe.mp3"></embed>
+<embed height="0" width="0" loop="true"  autostart="true"   starttime="00:01"  controls="ControlPanel"  src="/audio/LetItBe.mp3"></embed>
