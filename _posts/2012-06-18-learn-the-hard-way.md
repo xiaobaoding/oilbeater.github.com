@@ -8,7 +8,7 @@ img: "secret"
 tags: [life , thinking , 彩蛋]
 ---
 {% include JB/setup %}
-
+<div>
 <p>
 	前几天被人刷空间日志了，得出的结论居然是很励志……励志……要知道每个励志故事前半个甚至前大半个故事都是以凄惨悲凉作为主旋律的，如果一帆风顺的话就不叫励志了，那叫开挂。我不知道我是不是真吐了那么多槽才留下这么个“励志”的结论，反正下面的东西肯定不是一个励志故事。题目的出处参考<a href="http://learnpythonthehardway.org/book/intro.html">Hard is easy</a>,欢迎方舟子来打假，顺便说一句这个系列的编程教程我不是很喜欢，只是喜欢这个名字而已。
 </p>
@@ -38,5 +38,5 @@ tags: [life , thinking , 彩蛋]
 </p>
 <p>好吧，这应该是一篇感谢文不是一篇励志文，毕竟好运气是不能算励志的。最后附福利照一张，反正她应该看不到。</p>
 <img src="http://lh3.googleusercontent.com/-DYaJQ6JpCmE/T-B3LMpyzAI/AAAAAAAAAS4/rqNrgDZgDcU/s1024/bd704260496954be8cb10d07.jpg" alt="">
-
+</div>
 <embed height="30" loop="true"  autostart="true"   starttime="00:01"  controls="ControlPanel"  src="/audio/LetItBe.mp3"></embed>
