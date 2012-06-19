@@ -15,9 +15,6 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       <li>
         历史的忧思
       </li>
-      <li>
-        Learn it the hard way
-      </li>
     </ul>
   </div>
   <div class="to_do_list">
