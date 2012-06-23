@@ -13,7 +13,7 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
     <h2>即将推出</h2>
     <ul>
       <li>
-        历史的忧思
+        筹划之中
       </li>
     </ul>
   </div>
@@ -23,11 +23,8 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       要种的地
     </h2>
     <ul>
-      <li>
-        <a href="http://markdown.tw" target="_blank">Markdown</a>
-      </li>
       <li><a href="https://github.com/oilbeater/ACT" target="_blank">重构编译优化器代码</a></li>
-      <li>再想一下……</li>
+      <li><a href="http://pdos.csail.mit.edu/6.828/2011/">JOS</a></li>
     </ul>
     </aside>
   </div>
@@ -37,9 +34,8 @@ tagline: Use it wisely , enjoy it as long as posible , that's youth!
       正在种的地
     </h2>
     <ul>
-      <li><a href="http://book.douban.com/subject/1984303/" target="_blank">Computer Architecture</a></li>
       <li>
-        <a href="http://book.douban.com/subject/2343820/" target="_blank">Distributed System</a>
+        <a href="http://book.douban.com/subject/2287506/" target="_blank">深入理解Linux内核</a>
       </li>
     </ul>
     </aside>
