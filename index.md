@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oilbeater 的部落格
-tagline: Use it wisely , enjoy it as long as posible , that's youth!
+tagline: Use it wisely , enjoy it as long as possible , that's youth!
 ---
 {% include JB/setup %}
 <head>
