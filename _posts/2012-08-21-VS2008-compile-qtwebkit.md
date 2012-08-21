@@ -17,6 +17,8 @@ published: false
  官方链接在[这里](http://www.microsoft.com/zh-cn/download/details.aspx?id=3713)第一次找的时候不知道为什么脑抽筋直接下了一个MSDN，装完后还傻傻的找启动程序在那里？在哪里？
 ### 安装Qt for VS2008
  网上很多教程都说要自己从编译Qt，实践证明直接用安装包就好了，链接在[这里](http://qt.nokia.com/downloads/windows-cpp-vs2008)安装好后记得要在环境变量PATH里把qt安装目录下面的bin路径加入到PATH中，因为vs编译的时候需要找到qmake的路径。
+### 下载qtwebkit源码
+官网的nightly版本是编译不出qt版的所以还是用[这个](http://get.qt.nokia.com/qtwebkit/QtWebKit-2.2.0.tar.gz)吧。
 ### 下载pthread
  不知道为什么里面会用到pthread这种和平台相关的库，不过好在pthread现在也有windows平台的了，链接在[这里](ftp://sourceware.org/pub/pthreads-win32/pthreads-w32-2-9-1-release.zip)
 将 pthreadVC2.lib  pthreadVC2.lib 和pthread.h （看一下是x86版还是x64版）扔到qt安装目录下的lib中
@@ -35,3 +37,5 @@ published: false
 由于编译的时候要执行许多脚本生成代码，又由于他们不是用一个语言写的所以这两个都要装。
 Perl在[这里](http://www.activestate.com/activeperl/downloads)
 Python 需要2.x版，链接在[这里](http://www.python.org/download/)由于某些众所周知的原因你可能打不开。然后再把python的安装路径和perl的bin路径加到PATH中就不需要再安装别的东西了。需要安装的东西一点也不多。
+###修改代码bug
+
