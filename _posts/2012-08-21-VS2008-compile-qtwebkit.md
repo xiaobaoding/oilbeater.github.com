@@ -8,6 +8,7 @@ tagline: "Hack the life"
 tags: [webkit]
 img: "http://lh6.googleusercontent.com/-Z7ZgfMMC0ug/UDLqG1HYL_I/AAAAAAAAAVk/0BlqB3-i35Q/s215/webkit.png"
 ---
+published: false
 ---
 
 为了证明自己这一个月没有打酱油，不过一个月写出这么个环境搭建的东西也只能证明我打酱油了，也为了回去能把环境搭起来，还是写那么两笔吧。官方的安装指导在[这里](http://trac.webkit.org/wiki/BuildingQtOnWindows)但是按照这个指导是肯定编译不过去的，所以还是看我的吧。安装环境的过程其实一点也不麻烦
