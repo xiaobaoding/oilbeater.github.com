@@ -38,4 +38,10 @@ published: false
 Perl在[这里](http://www.activestate.com/activeperl/downloads)
 Python 需要2.x版，链接在[这里](http://www.python.org/download/)由于某些众所周知的原因你可能打不开。然后再把python的安装路径和perl的bin路径加到PATH中就不需要再安装别的东西了。需要安装的东西一点也不多。
 ###修改代码bug
-
+像这么光荣伟大正确的开源工程release出来的代码怎么可能会有问题能，绝对不可能有问题，一定是下载程序出错了。
+打开QtWebKit-2.2.0/Source/JavaScriptCore/JavaScriptCore.pri 把95行的LIBS += -lwinmm 改为LIBS += -lwinmm -lAdvapi32。不然的话链接时会出错，这一定是下载程序偷懒少下造成的。然后还有一个错误，具体在哪里我给忘了，不过是个编译的时候看一眼就知道怎么改的bug还是先编译吧。
+###编译Qtwebkit
+在源码文件夹里新建WebkitBuild文件夹，在里面再新建Debug和Release两个文件夹，注意大小写。
+在开始菜单里打开“Visual Studio 2008 命令提示”cd到源码文件夹然后敲入“perl Tool/Scripts/build-webkit --qt --debug --minimal”就可以开始漫长的编译了。编译的时候会提示一个错误中断，什么错误文件末尾一类的错误。打开提示错误的代码发现那一行是由于有两个中文引号造成的，根据上下文初步估计他是想写转义后的双引号，改成转义后的双引号后就可以编译通过了。这一定是有人挖webkit的墙角才会在release版里有这么弱智的问题。
+经过很短的编译时间，大概两个小时吧，就可以在\QtWebKit-2.2.0\Source\WebKit\win\WebKit.vcproj下面找到VS工程文件了。在QtWebKit-2.2.0\WebkitBuild\Debug\bin下可以找到编译好的可执行文件QtTestBrowser了。打开QtTestBrowser然后再用VS的调试attach上去就可以加断点调试了。
+Qtwebkit的环境搭建真的好容易啊好容易。
