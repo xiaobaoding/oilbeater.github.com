@@ -19,6 +19,8 @@ published: true
 ### 下载pthread
  不知道为什么里面会用到pthread这种和平台相关的库，不过好在pthread现在也有windows平台的了，链接在[这里](ftp://sourceware.org/pub/pthreads-win32/pthreads-w32-2-9-1-release.zip)
 将 pthreadVC2.lib  pthreadVC2.lib 和pthread.h （看一下是x86版还是x64版）扔到qt安装目录下的lib中
+### 下载WebKit Support Library 
+  一个水果公司提供的库文件去[这里](https://developer.apple.com/opensource/internet/webkit_sptlib_agree.html)下载，**不用解压**，直接放到webkit源码目录下即可
 ### 安装GUN 工具包
 **记住安装路径中不能有空格** 
 由于某些众所周知的原因下面的链接可能打不开
