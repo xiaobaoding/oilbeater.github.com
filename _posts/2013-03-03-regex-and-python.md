@@ -6,7 +6,7 @@ published: false
 简单说一下为什么要用正则表达式，因为可以用简洁的方式处理几乎所有的字符串查找和匹配，节省生命，节省脑子。
 
 文中的内容主要参考自[《精通正则表达式 第三版》](http://book.douban.com/subject/2154713/)
-和[《Python 核心编程 第二版》](http://book.douban.com/subject/3112503/)以及[Python re](http://docs.python.org/2/library/re.html)，主要做一下总结和笔记。感兴趣的同学可以深入看一下这两本书。
+和[《Python 核心编程 第二版》](http://book.douban.com/subject/3112503/)以及[Python re](http://docs.python.org/2/library/re.html)，主要做一下总结和笔记。感兴趣的同学可以深入看一下这两本书最后再看一下标准。
 
 ## Regex 中的特殊字符和规则
 
