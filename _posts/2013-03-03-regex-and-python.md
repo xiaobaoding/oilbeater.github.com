@@ -6,6 +6,7 @@ category:
 tagline: "Hack the life"
 tags: [python , re]
 img: "http://fmn.rrimg.com/fmn062/20130303/1405/original_pot5_38e700011e971190.jpg"
+published: true
 ---
 
 简单说一下为什么要用正则表达式，因为可以用简洁的方式处理几乎所有的字符串查找和匹配，节省生命，节省脑子。
