@@ -73,5 +73,47 @@ const_cast ，顾名思义，将转换掉表达式的 const 性质。类似地�
 
 reinterpret_cast 通常为操作数的位模式提供较低层次的重新解释。
 
+break 只能在循环或开关中使用。（不能在其他block中用）
+
+向后跳过已经执行的变量定义语句则是合法的。为什么？向前跳过未执行的变量定义语句，意味着变量可能在没有定义的情况下使用。向后跳回到一个变量定义之前，则会使系统撤销这个变量，然后再重新创建它。（while循环中的局部变量）
+
+预处理常量
+
+	NDEBUG debug开关
+	__FILE__ 文件名
+	__LINE__ 当前行号
+	__TIME__ 文件被编译的时间
+	__DATE__ 文件被编译的日期
+    
+如果使用引用形参的唯一目的是避免复制实参，则应将形参定义为 const 引用。（防止各种非右值表达式不能用）
+
+	// function takes a non-const reference parameter
+     int incr(int &val)
+     {
+         return ++val;
+     }
+     int main()
+     {
+         short v1 = 0;
+         const int v2 = 42;
+         int v3 = incr(v1);   // error: v1 is not an int
+         v3 = incr(v2);       // error: v2 is const
+         v3 = incr(0);        // error: literals are not lvalues
+         v3 = incr(v1 + v2);  // error: addition doesn't yield an lvalue
+         int v4 = incr(v3);   // ok: v3 is a non const object type int
+     }
+
+通常，函数不应该有 vector 或其他标准库容器类型的形参。调用含有普通的非引用 vector 形参的函数将会复制 vector 的每一个元素。
+
+编译器忽略为任何数组形参指定的长度。
+
+数组形参可声明为数组的引用。如果形参是数组的引用，编译器不会将数组实参转化为指针，而是传递数组的引用本身。在这种情况下，数组大小成为形参和实参类型的一部分。编译器检查数组的实参的大小与形参的大小是否匹配。（好麻烦用vector吧）
+
+理解返回引用至关重要的是：千万不能返回局部变量的引用。
+
+返回引用的函数返回一个左值。（可以给函数赋值！！）
+
+
+
 
 
