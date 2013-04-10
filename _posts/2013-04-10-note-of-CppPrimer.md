@@ -1,6 +1,12 @@
 ---
-layout: default
-published: false
+layout: post
+title: "C++ Primer笔记"
+description: "又看了一遍，这是第三遍了，这次是真看，还是有很多没懂，记下摘得句子，加点自己的感悟。。"
+category:
+tagline: "Hack the life"
+tags: [C++ , reading]
+img: "http://fmn.rrimg.com/fmn062/20121127/1030/original_IAiV_6cc6000027ee118c.jpg"
+published: true
 ---
 
 #C++ Primer 笔记
