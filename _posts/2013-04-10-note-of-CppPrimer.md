@@ -31,8 +31,10 @@ published: true
 
 string 对象比较操作是区分大小写的，即同一个字符的大小写形式被认为是两个不同的字符。在多数计算机上，大写的字母位于小写之前：任何一个大写之母都小于任意的小写字母。如果两个 string 对象长度不同，且短的 string 对象与长的 string 对象的前面部分相匹配，则短的 string 对象小于长的 string 对象。
 
-使用 size_type 类型时，必须指出该类型是在哪里定义的。vector 类型总是包括总是包括 vector 的元素类型：     vector<int>::size_type        // ok
-    	 vector::size_type            // error
+使用 size_type 类型时，必须指出该类型是在哪里定义的。vector 类型总是包括总是包括 vector 的元素类型：
+
+		vector<int>::size_type        // ok
+    	vector::size_type            // error
          
 由 end 操作返回的迭代器并不指向 vector 中任何实际的元素，相反，它只是起一个哨兵（sentinel）的作用，表示我们已处理完 vector 中所有元素。
 
