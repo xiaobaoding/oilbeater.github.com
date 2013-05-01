@@ -6,7 +6,7 @@ category:
 tagline: " Hack the life！"
 tags: [C++]
 img: "http://fmn.xnpic.com/fmn057/20130410/2300/original_CR1l_435a00014a9d125b.jpg"
-published: false
+published: true
 ---
 
 # C++面试题——const 和 static
