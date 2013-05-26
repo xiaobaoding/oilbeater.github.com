@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "Impressions Of Hangzhou"
-description: ""
 title: "印象杭州"
 img: "http://fmn.rrimg.com/fmn060/20120909/1415/original_mP5J_04c800005ce4118d.jpg"
 description: "虽说之前由于迫不及待已经把照片都发出去了，不过照片后的故事基本都没说过，今天就讲讲照片后的故事。"
