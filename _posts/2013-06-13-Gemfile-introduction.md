@@ -8,6 +8,7 @@ tagline: "Hack the life"
 tags: [ruby , gem]
 published: true
 --
+
 主要翻译自[gemfile manual](http://gembundler.com/v1.3/man/gemfile.5.html)
 
 Gemfile主要是用来管理ruby程序所依赖的gem，下面逐一介绍主要的配置。
@@ -51,7 +52,7 @@ gem的下载源例如
     gem 'rack',  '>=1.0'
     gem 'thin',  '~>1.1'
 
->=表示大于当前版本的最新版本。
+‘>=’表示大于当前版本的最新版本。
 那么第三个~>1.1是啥意思呢，就是>=1.1且<2.0的最新版本。~> 2.0.3就是>=2.03 且<2.1的最新版本即控制gem的版本在一个发行区间内。
 
 #####require
