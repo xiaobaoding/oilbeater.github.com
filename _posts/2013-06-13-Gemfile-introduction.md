@@ -7,7 +7,7 @@ category:
 tagline: "Hack the life"
 tags: [ruby,gem]
 published: true
---
+---
 
 主要翻译自[gemfile manual](http://gembundler.com/v1.3/man/gemfile.5.html)
 
