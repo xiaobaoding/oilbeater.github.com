@@ -5,7 +5,7 @@ description: ""
 img: "secret"
 category: 
 tagline: "Hack the life"
-tags: [ruby , gem]
+tags: [ruby,gem]
 published: true
 --
 
