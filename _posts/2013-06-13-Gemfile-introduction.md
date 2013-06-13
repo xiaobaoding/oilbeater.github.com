@@ -10,7 +10,9 @@ published: true
 --
 主要翻译自[gemfile manual](http://gembundler.com/v1.3/man/gemfile.5.html)
 
-Gemfile主要是用来管理ruby程序所以来的gem
+Gemfile主要是用来管理ruby程序所依赖的gem，下面逐一介绍主要的配置。
+
+
 ###source
 
 gem的下载源例如
