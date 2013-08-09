@@ -5,7 +5,7 @@ description: "折腾了这么久的实习，终于也差不多尘埃落定了，
 category: 
 tagline: " Hack the life！"
 tags: [C++ , life]
-img: "http://www.tu265.com/di-845cff80bafb0a4610cc6f51ac1f76af.jpg"
+img: "http://fmn.rrfmn.com/fmn059/20130526/1020/original_Ok3m_603f00014afd125d.jpg"
 ---
 
 
