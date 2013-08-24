@@ -138,7 +138,7 @@ img: "http://fmn.rrimg.com/fmn065/20130611/2015/large_V0HB_527c0000272f125d.jpg"
 
 命令行下
 
-    bundler install
+    bundle install
     rails server
 
 提示绑定到了0.0.0.0:3000，就可以在浏览器浏览你的第一个网站了。
