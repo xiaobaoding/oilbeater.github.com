@@ -10,7 +10,6 @@ published: true
 ---
 
 {% include JB/setup %}
-<div>
 <img src="/img/first_love1.jpg" alt="" style="float:left;width:183px;height:183px;">
 <p>
 	雨是个奇怪的东西，第一次有冲动要在雨天淋个痛快的时候，老天爷极其赏脸的就答应了，结果就有了去年那次著名的水淹帝都。我趴在百度大厦的玻璃窗上看了半天，想了一下还是算了，和被困的同事打三国杀去了。今天也下雨了，当我一不留神打开了百度首页蹦出一条新鲜事的时候，又想出去淋雨了，结果雨停了。想起了那个龙王女儿的说法，不知道她到底有什么魔法。有的事有趣就有趣在不是因缘际会而总是阴错阳差。
@@ -52,6 +51,3 @@ published: true
 <p>
     5.20,收笔于雨声。
 </p>
-
-<embed src="http://www.xiami.com/widget/7864923_2073776,_235_150_FF8719_494949_1/multiPlayer.swf" type="application/x-shockwave-flash" width="235" height="150" wmode="opaque"></embed>
-</div>

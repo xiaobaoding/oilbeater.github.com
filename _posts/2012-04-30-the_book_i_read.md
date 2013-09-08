@@ -73,5 +73,4 @@ img: "http://lh3.googleusercontent.com/-igbGFN1vP90/T69fVh8FbPI/AAAAAAAAAIw/83h5
 		    话说我很喜欢这种草根风格的书，很生活有很有创意，有一些黑背的风格，不过是彩色的。书中将一些童年的趣事以漫画的形式表现了出来，勾起了许多美好有趣的回忆。不过也慢慢能发现一些值得思考的东西。为什么我们小时候的梦想都是什么科学家，军人，这些到底是谁的梦想呢？或许当时最真实的梦想就是当个摊煎饼果子的天天有薄脆吃吧。
 		</p>
 	</div>	
-	<audio controls="controls" autoplay="autoplay" loop="loop" src="http://42.120.43.143/a1/a14da1ef8157625157f66a13ca8eed618a590151/RememberWhen.mp3?key=3c33d1ce32fb89ccb1958ec303b6aab1bda16cdc&file=RememberWhen.mp3"></audio>
 </div>

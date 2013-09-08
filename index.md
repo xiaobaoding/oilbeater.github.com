@@ -81,7 +81,7 @@ tagline: Use it wisely , enjoy it as long as possible , that's youth!
             </h3>
             <p>
               {{ post.date | date: "%B %e, %Y" }}
-                &nbsp &nbsptag:
+                :
                 {% for tag in post.tags %}
                  <a href="/tags.html#{{tag}}-ref">{{ tag }}</a>
                 {% endfor %}
