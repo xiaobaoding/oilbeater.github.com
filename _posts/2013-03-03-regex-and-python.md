@@ -5,7 +5,7 @@ description: "简单说一下为什么要用正则表达式，因为可以用简
 category:
 tagline: "Hack the life"
 tags: [python , re]
-img: "http://fmn.rrimg.com/fmn062/20130303/1405/original_pot5_38e700011e971190.jpg"
+img: "http://lh6.googleusercontent.com/-vQcn-f1J1Cg/Ui06Xx3NPhI/AAAAAAAAAa4/1B9jH_ing7o/w314-h160-no/original_pot5_38e700011e971190.jpg"
 published: true
 ---
 

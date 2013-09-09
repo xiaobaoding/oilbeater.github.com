@@ -5,7 +5,7 @@ description: "由于实习的东西有一部分是ruby on rails的就在自己�
 category: 
 tagline: " Hack the life！"
 tags: [ruby]
-img: "http://fmn.rrimg.com/fmn065/20130611/2015/large_V0HB_527c0000272f125d.jpg"
+img: "http://lh5.googleusercontent.com/-kUKhpCIDfsA/Ui06U9kkjpI/AAAAAAAAAZ0/zhk8uETi6fk/w845-h846-no/original_V0HB_527c0000272f125d.jpg"
 ---
 由于实习的东西有一部分是ruby on rails的就在自己机器上也搭个环境走个流程熟悉一下概念。主要是翻译自[How to install Ruby (and RVM) on Ubuntu (for technotards)](http://blog.coolaj86.com/articles/installing-ruby-on-ubuntu-12-04.html)和[Ruby on Rails Tutorial](http://book.douban.com/subject/10813224/)加上自己碰到问题的总结。
 

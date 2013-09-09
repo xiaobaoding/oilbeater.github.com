@@ -3,11 +3,11 @@ layout: post
 title: "手稿集"
 description: "当看到我最喜欢的调侃加戏谑的语句喷薄而出时，后悔晚了十多年才翻开这本书。喜欢这种每句话都透着灵气和想法的文章，不管正确与否，成熟还是幼稚，我相信能用心写出这样一部小说对作者来说也是一件快乐的事情。"
 category: 
-img: http://fmn.rrimg.com/fmn063/20120626/1850/original_1JgB_20f70000257f118f.jpg
+img: http://lh5.googleusercontent.com/-1ttET53lQ0U/Ui06P1omnNI/AAAAAAAAAYA/bE4zHxE5Wq4/w421-h457-no/original_1JgB_20f70000257f118f.jpg
 tags: [life , reading]
 ---
 {% include JB/setup %}
-<img src="http://fmn.rrimg.com/fmn063/20120626/1850/original_1JgB_20f70000257f118f.jpg" alt="" style="width:165px;height:215px;clear:both;">
+<img src="http://lh5.googleusercontent.com/-1ttET53lQ0U/Ui06P1omnNI/AAAAAAAAAYA/bE4zHxE5Wq4/w421-h457-no/original_1JgB_20f70000257f118f.jpg" alt="" style="width:165px;height:215px;clear:both;">
 <p>
 	前阵子比较火的手稿集估计就是韩寒的《光明与磊落》了。当看到我最喜欢的调侃加戏谑的语句喷薄而出时，后悔晚了十多年才翻开这本书。喜欢这种每句话都透着灵气和想法的文章，不管正确与否，成熟还是幼稚，我相信能用心写出这样一部小说对作者来说也是一件快乐的事情。能够用心写出这样一部作品就足够了。
 </p>

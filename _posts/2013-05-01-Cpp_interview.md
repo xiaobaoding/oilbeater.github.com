@@ -5,7 +5,7 @@ description: "虽说不太喜欢这种问语言特性的题目，但是国内好
 category: 
 tagline: " Hack the life！"
 tags: [C++]
-img: "http://fmn.xnpic.com/fmn057/20130410/2300/original_CR1l_435a00014a9d125b.jpg"
+img: "http://lh4.googleusercontent.com/-HE4oOBFE5xQ/Ui06RkyfmaI/AAAAAAAAAYw/UZdarMLw5uI/s500-no/original_CR1l_435a00014a9d125b.jpg"
 published: true
 ---
 

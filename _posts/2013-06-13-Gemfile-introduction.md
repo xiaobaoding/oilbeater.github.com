@@ -2,7 +2,7 @@
 layout: post
 title: "Gemfile入门介绍"
 description: ""
-img: "secret"
+img: "http://lh5.googleusercontent.com/-kUKhpCIDfsA/Ui06U9kkjpI/AAAAAAAAAZ0/zhk8uETi6fk/w845-h846-no/original_V0HB_527c0000272f125d.jpg"
 category: 
 tagline: "Hack the life"
 tags: [ruby,gem]

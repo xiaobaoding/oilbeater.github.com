@@ -5,7 +5,7 @@ description: "又看了一遍，这是第三遍了，这次是真看，还是有
 category:
 tagline: "Hack the life"
 tags: [C++ , reading]
-img: "http://fmn.xnpic.com/fmn057/20130410/2300/original_CR1l_435a00014a9d125b.jpg"
+img: "http://lh4.googleusercontent.com/-HE4oOBFE5xQ/Ui06RkyfmaI/AAAAAAAAAYw/UZdarMLw5uI/s500-no/original_CR1l_435a00014a9d125b.jpG"
 published: true
 ---
 
