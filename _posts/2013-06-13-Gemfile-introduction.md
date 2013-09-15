@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gemfile入门介绍"
-description: ""
+description: "第一次接触ruby这门语言路上碰到的障碍还是要记录一下的。"
 img: "http://lh5.googleusercontent.com/-kUKhpCIDfsA/Ui06U9kkjpI/AAAAAAAAAZ0/zhk8uETi6fk/w845-h846-no/original_V0HB_527c0000272f125d.jpg"
 category: 
 tagline: "Hack the life"
