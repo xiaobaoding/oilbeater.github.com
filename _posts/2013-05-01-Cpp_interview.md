@@ -35,7 +35,7 @@ const表面含义貌似是个常量，但实际上还是占据一个内存位置
 
     int main()
     {
-	    const int a = 10;
+	    volatile const int a = 10;
 	    int *c =(int*) &a;
 	    *c = 5;
 	    cout<<a<<endl;
