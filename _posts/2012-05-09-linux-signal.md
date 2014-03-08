@@ -48,4 +48,13 @@ UNIX对前32个信号都有默认的响应方式，分为以下5类：
 <li>处理中断异常</li>
 <li>进程调度上CPU</li>
 </ul>
+<hr>
+<h2>参考资料</h2>
+<ul>
+	<li><a href="http://book.douban.com/subject/2287506/">《深入理解linux内核》</a>说实话这本书讲的不是很清楚，不过权威的也没有别的书了</li>
+	<li>man signal kill sigaction  说错了还是有权威的linux自带的manual</li>
+	<li><a href="http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html">IBM开发者社区的资料</a></li>
+	<li><a href="http://www.spongeliu.com/linux/linux%E5%86%85%E6%A0%B8%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%E4%BB%8B%E7%BB%8D/">linux内核信号处理机制简介</a>最后比较严肃的东西都是直接从这上面copy的</li>
+	
+</ul>
 </div>
