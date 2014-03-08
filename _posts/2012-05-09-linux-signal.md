@@ -7,7 +7,7 @@ category:
 img: "http://lh6.googleusercontent.com/-vRXcYw7V7fg/T69fVsIkNaI/AAAAAAAAAIw/Y3KgmC33VbI/s512/linux.jpg"
 tags: [linux , 源码阅读]
 ---
-{% include JB/setup %}
+
 <p>
     鉴于后面把进程的形象给彻底毁掉了，我提前声明一下，进程是有尊严的有节操的，当然大部分人可能也看不到毁形象那一段。为什么介绍linux要从信号开始呢，当然是为了保证能讲明白，因为翻了翻书我发现这一部分是最简单的了，所以呢，就讲这个吧，顺便把之前源码阅读的东西总结一下。
 </p>
