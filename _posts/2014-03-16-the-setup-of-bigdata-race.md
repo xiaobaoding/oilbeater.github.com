@@ -17,7 +17,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
     def parse_date(raw_date):
         entry_date = raw_date.decode("gbk")
         month = int(entry_date[0])
-        if len(entry_date) == 5:
+        if len(entry_date) > 6:
             day = 10 * int(entry_date[2]) + int(entry_date[3])
         else:
             day = int(entry_date[2])
@@ -32,6 +32,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
         validation = open("validation.csv", "w")
         raw_file.readline()
         for line in raw_file.readlines():
+            line = line.strip()
             entry = line.split(",")
             entry_date = date(*parse_date(entry[3]))
             date_delta = (entry_date - begin_date).days
@@ -82,6 +83,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
     result = defaultdict(set)
     f = open("result")
     for line in f.readlines():
+        line.strip()
         uid, bid = line.split("\t")
         result[uid] = bid.split(",")
         brand += len(result[uid])
@@ -90,6 +92,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
 
     f = open("predict.txt")
     for line in f.readlines():
+        line.strip()
         uid, bid = line.split("\t")
         bid = bid.split(",")
         predict_num += len(bid)
