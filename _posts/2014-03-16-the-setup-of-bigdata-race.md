@@ -83,7 +83,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
     result = defaultdict(set)
     f = open("result")
     for line in f.readlines():
-        line.strip()
+        line = line.strip()
         uid, bid = line.split("\t")
         result[uid] = bid.split(",")
         brand += len(result[uid])
@@ -92,7 +92,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
 
     f = open("predict.txt")
     for line in f.readlines():
-        line.strip()
+        line = line.strip()
         uid, bid = line.split("\t")
         bid = bid.split(",")
         predict_num += len(bid)
