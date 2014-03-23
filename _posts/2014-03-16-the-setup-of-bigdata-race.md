@@ -17,7 +17,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
     def parse_date(raw_date):
         entry_date = raw_date.decode("gbk")
         month = int(entry_date[0])
-        if len(entry_date) > 6:
+        if len(entry_date) == 5:
             day = 10 * int(entry_date[2]) + int(entry_date[3])
         else:
             day = int(entry_date[2])
@@ -41,6 +41,7 @@ img: "http://lh4.googleusercontent.com/-um7AnWJx3Is/T9cH3NM4QXI/AAAAAAAAASc/mR1b
             elif int(entry[2]) == 1:
                 validation.write(",".join(entry[:2]) + "\n")
                 print ",".join(entry[:2])
+        validation.write("99999999999,9" + "\n")
         train.close()
         validation.close()
 
