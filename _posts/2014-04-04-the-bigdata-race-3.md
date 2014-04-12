@@ -45,7 +45,7 @@ LR其实可以指两种算法[linear regression](http://en.wikipedia.org/wiki/Li
         predicts[uid].add(bid)
 
 
-上面的代码主要是参考了[Logistic Regression in Python](http://http://blog.yhathq.com/posts/logistic-regression-and-python.html)这篇博客进行了化简。更多的用法可以参考这篇博客。
+上面的代码主要是参考了[Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)这篇博客进行了化简。更多的用法可以参考这篇博客。
 
 可以看到算法的具体使用还是很简单的，所以麻烦的不是算法本身，麻烦的其实是考察每个算法模型，并对每个算法模型构建合适的特征去采样构建训练集。我构建训练集的代码可要比这个长的多的多了。大部分的分类算法的形式都是类似的，基本上都是上述的三个步骤，大家一个跑通了后其他的算法应该就会轻车熟路了。
 
